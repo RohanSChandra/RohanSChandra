@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://media4.giphy.com/media/977YesTjNfQC7vQiph/giphy.gif?cid=ecf05e47jgf1dx27q5c2uridng0f7i2f50toaqp98au7ac7a&rid=giphy.gif&ct=g" styl="max-width: 100%">
+<img src="https://media.giphy.com/media/lJbot6b2yxvDBfL0bJ/giphy.gif" style="max-width: 100%">
 </p>
 
 ----
@@ -34,6 +34,31 @@ currently_learning: ["ReactJs", "Docker", "Postgres SQL"]
 2022 Goals: ["Develop & release 3+ Projects"]
 hobbies: ["Gaming", "Basketball", "Movies", "Coding"]
 ```
+---
+
+## 🛠 Tools I have Used and Learnt! 
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;"alt="vscode" width="45" height="45">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;"alt="html5" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width: 100%;"alt="css3" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;"alt="javascript" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="max-width: 100%;"alt="react" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;"alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="max-width: 100%;"alt="jest" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width: 100%;"alt="nodejs" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" style="max-width: 100%;"alt="nodejs" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" style="max-width: 100%;"alt="mongodb" width="45" height="45"/>
+<img src="https://expressjs.com/images/express-facebook-share.png" style="max-width: 100%;"alt="express" width="100" height="45">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" style="max-width: 100%;"alt="heroku" width="100" height="45"/>      
+<img src="https://www.quintagroup.com/blog/blog-images/saml2/auth0.png/@@images/image.png" style="max-width: 100%;"alt="auth" width="45" height="45">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" style="max-width: 100%;"alt="postgres" width="45" height="45"/>
+          
+                    
+          
+          
+                    
+</p>
 
 <!-- - 👋 Hi, I’m Rohan Chandra
 - 👀 I’m interested in building Websites

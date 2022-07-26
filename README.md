@@ -6,6 +6,12 @@
 <img src="https://media.giphy.com/media/lJbot6b2yxvDBfL0bJ/giphy.gif" style="max-width: 100%">
 </p>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/rohanschandra/"> 
+<img height="50" src="https://user-images.githubusercontent.com/99003495/180978197-64a289ce-41c2-4a2d-bc75-9895c33dbe82.png"/>
+</a>
+</p>
+
 ----
 
 ## 👨🏽‍💻 A Little Bit About Me and My Interests 
@@ -52,12 +58,13 @@ hobbies: ["Gaming", "Basketball", "Movies", "Coding"]
 <img src="https://expressjs.com/images/express-facebook-share.png" style="max-width: 100%;"alt="express" width="100" height="45">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" style="max-width: 100%;"alt="heroku" width="100" height="45"/>      
 <img src="https://www.quintagroup.com/blog/blog-images/saml2/auth0.png/@@images/image.png" style="max-width: 100%;"alt="auth" width="45" height="45">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" style="max-width: 100%;"alt="postgres" width="45" height="45"/>
-          
-                    
-          
-          
-                    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" style="max-width: 100%;"alt="postgres" width="45" height="45"/>                
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=👾Thanks for Viewing!👾&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 <!-- - 👋 Hi, I’m Rohan Chandra

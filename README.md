@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=👾Hey Everyone!👾&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=👾Hey&nbsp;Everyone!👾&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@ hobbies: ["Gaming", "Basketball", "Movies", "Coding"]
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=👾Thanks for Viewing!👾&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=👾Thanks&nbsp;for&nbsp;Viewing!👾&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 <!-- - 👋 Hi, I’m Rohan Chandra

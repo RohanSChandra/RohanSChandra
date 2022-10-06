@@ -55,11 +55,11 @@ hobbies: ["Gaming", "Basketball", "Movies", "Coding"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width: 100%;"alt="nodejs" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" style="max-width: 100%;"alt="nodejs" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" style="max-width: 100%;"alt="mongodb" width="45" height="45"/>
-<img src="https://expressjs.com/images/express-facebook-share.png" style="max-width: 100%;"alt="express" width="100" height="45">
+<img src="https://skillshack.blob.core.windows.net/uploads/express.webp" style="max-width: 100%;"alt="express" width="50" height="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" style="max-width: 100%;"alt="heroku" width="100" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/auth0/auth0-icon.svg" style="max-width: 100%;"alt="auth" width="45" height="45">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" style="max-width: 100%;"alt="postgres" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" style="max-width: 100%;"alt="postgres" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" style="max-width: 100%;"alt="jira" width="45" height="45" />
 
 </p>
 
